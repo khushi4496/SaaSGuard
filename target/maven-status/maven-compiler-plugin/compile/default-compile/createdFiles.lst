@@ -1,0 +1,6 @@
+com\example\saasguard\model\Subscription.class
+com\example\saasguard\SaaSGuardApplication.class
+com\example\saasguard\controller\SubscriptionController.class
+com\example\saasguard\repository\SubscriptionRepository.class
+com\example\saasguard\repository\JdbcSubscriptionRepository.class
+com\example\saasguard\manager\SubscriptionManager.class
