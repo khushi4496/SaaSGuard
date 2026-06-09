@@ -1,7 +1,7 @@
-package com.example.saasguard.manager;
+package com.khushi.saasguard.manager;
 
-import com.example.saasguard.model.Subscription;
-import com.example.saasguard.repository.SubscriptionRepository;
+import com.khushi.saasguard.model.Subscription;
+import com.khushi.saasguard.repository.SubscriptionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;

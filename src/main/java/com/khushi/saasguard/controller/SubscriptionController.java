@@ -1,7 +1,7 @@
-package com.example.saasguard.controller;
+package com.khushi.saasguard.controller;
 
-import com.example.saasguard.model.Subscription;
-import com.example.saasguard.manager.SubscriptionManager;
+import com.khushi.saasguard.model.Subscription;
+import com.khushi.saasguard.manager.SubscriptionManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -15,7 +15,7 @@ import java.util.Map;
 public class SubscriptionController {
 
     @Autowired
-    private SubscriptionManager subscriptionManager;
+    private SubscriptionManager subscriptionManager; //creates SubscriptionManager object automatically
 
     /**
      * GET /subscriptions

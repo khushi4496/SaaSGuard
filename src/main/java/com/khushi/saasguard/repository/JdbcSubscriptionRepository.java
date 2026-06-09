@@ -1,6 +1,6 @@
-package com.example.saasguard.repository;
+package com.khushi.saasguard.repository;
 
-import com.example.saasguard.model.Subscription;
+import com.khushi.saasguard.model.Subscription;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 

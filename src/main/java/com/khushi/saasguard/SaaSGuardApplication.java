@@ -1,4 +1,4 @@
-package com.example.saasguard;
+package com.khushi.saasguard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

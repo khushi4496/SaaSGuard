@@ -1,4 +1,4 @@
-package com.example.saasguard.model;
+package com.khushi.saasguard.model;
 
 import java.time.LocalDateTime;
 import java.sql.Timestamp;
